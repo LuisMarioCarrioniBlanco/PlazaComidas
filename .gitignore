@@ -1,0 +1,17 @@
+﻿# Java y Maven
+**/target/
+**/build/
+**/out/
+
+# Configuración local y secretos
+.env
+.env.*
+!.env.example
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+.classpath
+.project
+.settings/
